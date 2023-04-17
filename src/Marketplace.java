@@ -565,7 +565,6 @@ public class Marketplace {
             System.out.println("\t2. Search by products");
             System.out.println("\t3. Sort products"); //sort price and quantity
             System.out.println("\t4. View Shopping Cart");
-            System.out.println("\t5. View or Export purchase history");
             System.out.println("\t6. View Mail Page");
             System.out.println("\t7. View dashboard");
             System.out.println("\t8. Edit profile");
