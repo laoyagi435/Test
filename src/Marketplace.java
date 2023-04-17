@@ -541,13 +541,7 @@ public class Marketplace {
         }
     }
 
-    /**
-     * Customer's interface; ensure data are saved before logging out
-     *
-     * @param scanner  for inputs
-     * @param customer current user and role
-     * @param market   for database
-     */
+
     public static void customerFunctions(Scanner scanner, Customer customer, Market market) {
         while (true) {
             // Display all available products
